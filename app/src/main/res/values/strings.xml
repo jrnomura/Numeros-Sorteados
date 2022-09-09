@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Números Sorteados</string>
+    <string name="n_meros_sorteado">Números Sorteados</string>
+    <string name="digite_n_mero_inicial">Digite número inicial...</string>
+    <string name="digite_n_mero_final">Digite número final...</string>
+    <string name="sortear">Sortear</string>
+</resources>
